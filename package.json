@@ -1,0 +1,21 @@
+{
+  "name": "mesh-edge-chains",
+  "version": "0.1.0",
+  "description": "Boundary-edge extraction and junction-aware chain walking for triangle meshes",
+  "type": "module",
+  "main": "mesh-edge-chains.js",
+  "exports": {
+    ".": "./mesh-edge-chains.js"
+  },
+  "scripts": {
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "mesh",
+    "edges",
+    "topology",
+    "cad",
+    "geometry"
+  ],
+  "license": "MIT"
+}
